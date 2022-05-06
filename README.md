@@ -17,23 +17,22 @@ Back end in: https://github.com/Mateusr337/RepoTest_API
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
   <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </p>
 
 ## :tada: How to run
 
 ```bash
 # Clone this repo
-$ git clone https://github.com/Mateusr337/RepoTest.git
+$ git clone https://github.com/Mateusr337/sing_me_a_song.git
 
 # Clone the back-end repository and follow the instructions to run
-$ git clone https://github.com/Mateusr337/RepoTest_API.git
+$ git clone https://github.com/Mateusr337/sing_me_a_song.git
 
 # install the dependencies
 $ npm i
 
 # to run in dev
-$ npm src/ts-node
+$ npm start
 
 
 
